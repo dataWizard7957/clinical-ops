@@ -4,8 +4,8 @@
 ```markdown
 # ClinicalOps: Autonomous Medical Compliance & RCM Audit Agent
 
-> ** Agent Challenge 2026**
-> An autonomous, tool-augmented Pydantic AI agent designed for automated Revenue Cycle Management (RCM) clinical compliance auditing, reducing insurance claim denials and identifying HIPAA leaks before submission.
+ ** Agent Challenge 2026**
+ An autonomous, tool-augmented Pydantic AI agent designed for automated Revenue Cycle Management (RCM) clinical compliance auditing, reducing insurance claim denials and identifying HIPAA leaks before submission.
 
 ---
 
