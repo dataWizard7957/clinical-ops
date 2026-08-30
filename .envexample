@@ -1,0 +1,3 @@
+GOOGLE_API_KEY=gsk_your_api_key_here
+PHOENIX_PROJECT_NAME=clinical-compliance-audit
+PHOENIX_PORT=6006
