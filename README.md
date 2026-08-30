@@ -1,7 +1,6 @@
 # clinical-ops
 ###  `README.md`
 
-```markdown
 # ClinicalOps: Autonomous Medical Compliance & RCM Audit Agent
 
  ** Agent Challenge 2026**
@@ -44,3 +43,5 @@ export API_KEY="your_groq_api_key_here"
 
 uv run python scripts/generate_dataset.py
 uv run python tests/eval_suite.py
+
+` ` `
