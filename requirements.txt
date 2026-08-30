@@ -1,0 +1,8 @@
+pydantic
+pydantic-ai
+litellm
+tenacity
+python-dotenv
+openai
+groq
+requests
