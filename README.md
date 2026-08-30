@@ -1,5 +1,4 @@
-# clinical-ops
-###  `README.md`
+# Clinical-ops
 
 # ClinicalOps: Autonomous Medical Compliance & RCM Audit Agent
 
