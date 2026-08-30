@@ -1,5 +1,3 @@
-# Clinical-ops
-
 # ClinicalOps: Autonomous Medical Compliance & RCM Audit Agent
 
  ## Agent Challenge 2026
